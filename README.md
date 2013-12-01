@@ -1,7 +1,7 @@
 RGB 16x2 LCD+Keypad Kit for Raspberry Pi
 ================================
 Manufactured by : Geek Ammo  
-SKU : GMO-00030
+SKU : GMO-00029 / GMO-00030
 
 Summary
 -------
